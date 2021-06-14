@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+     <head>
+   <title>Sitio Web Maderería "La Sierrita"</title>
+         
+          <link rel="stylesheet" href="Es el archivo externo.css">
+
+      </head>
+
+<body background="fondo.jpg">
+
+<img src="logo.PNG" width="12.5%" height="12.5%">
+
+<center><h1> MADERERIA "LA SIERRITA"<h1></center>
+
+<hr color="white">
+<hr width="80%" color="white">
+<hr width="60%" color="white">
+<hr width="40%" color="white">
+<hr width="20%" color="white">
+
+<p><font color="blue" face="Arial">
+<center>
+Exelente calidad de madera <br>
+<br>
+¡VEN Y CONOCENOS! <br>
+<br>
+Somos una madereria ubicada en la cuidad de Morelia Mich.
+Contamos con tabla, polin, vigas, tarimas, costera, en todas sus dimenciones....
+</center>
+<hr>
+
+<table border="3" bordercolor="FF33FF">
+
+<tr>
+   <th>HORARIO</th>
+   <th>Lunes a Viernes </th>
+   <th>Sábado</th>
+</tr>
+
+<tr>
+   <td>De 9:00 am a 5:00 pm</td>   
+   <td>De 9:00 am a 2:00 pm</td>   
+</tr>
+</table>
+
+   <h1><center><font color="FFD700"> TIPOS DE MADERA QUE MANEJAMOS </font></center></h1>
+
+<center><img src="imagen tablas.JPEG" width="12.5%" height=12.5%></center>
+
+<font color="red" face="Arial">
+
+<ul>
+VIGAS DE OYAMEL
+TABLAS EN TODAS LAS MEDIDAS
+PRIMERA
+SEGUNDA
+TERCERA
+POLIN
+COSTERA
+TARIMA
+BARROTES
+
+<hr>
+
+Localizanos 
+Av. Madero Pte. #5202
+Col. Tinijaro, 58337 Morelia, Mexico
+
+<hr>
+
+Contactanos<br>
+
+<a href="http://www.facebook.com/Lasierritamadereria/" 
+target="_blank"><img src="2.png"
+width="4.5%" heigth="4%" class="dos"></a>
+
+ <a href="http://www.twitter.com" 
+target="_blank"><img src="4.png"
+width="4.5%" heigth="4%" class="dos"></a>
+
+ <a href="http://www.instagram.com" 
+target="_blank"><img src="3.jpg"
+width="4.5%" heigth="4%" class="dos"></a>
+
+ <a href="http://www.whatsapp.com" 
+target="_blank"><img src="5.jpg"
+width="4.5%" heigth="4%"class="dos"></a>
+
+</body>
+</html>
+
+
